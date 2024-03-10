@@ -1,2 +1,3 @@
 npm test
+npm run ts:check
 npm run lint:fix
