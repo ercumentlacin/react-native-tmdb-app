@@ -11,13 +11,13 @@ This is a simple React Native app that uses the TMDB API to display a list of mo
 
 ## Features
 
-[x] Authentication
-[ ] Display a list of movies
-[ ] Display movie details
-[ ] Search for movies
-[ ] Add movies to watchlist
-[ ] Remove movies from watchlist
-[ ] View watchlist
+- [x] Authentication
+- [ ] Display a list of movies
+- [ ] Display movie details
+- [ ] Search for movies
+- [ ] Add movies to watchlist
+- [ ] Remove movies from watchlist
+- [ ] View watchlist
 
 ## Technologies
 
@@ -32,11 +32,11 @@ This is a simple React Native app that uses the TMDB API to display a list of mo
 
 ## Screenshots
 
-[ ] Login
-[ ] Home
-[ ] Movie Details
-[ ] Search
-[ ] Watchlist
-[ ] Loading
-[ ] Error
-[ ] Empty
+- [ ] Login
+- [ ] Home
+- [ ] Movie Details
+- [ ] Search
+- [ ] Watchlist
+- [ ] Loading
+- [ ] Error
+- [ ] Empty
