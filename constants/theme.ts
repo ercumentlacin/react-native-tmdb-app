@@ -19,7 +19,6 @@ export const theme = {
     border: "hsl(240 5.9% 90%)",
     input: "hsl(240 5.9% 90%)",
     ring: "hsl(240 5.9% 10%)",
-    radius: "0.5rem",
   },
 
   dark: {
@@ -42,6 +41,5 @@ export const theme = {
     border: "hsl(240 3.7% 15.9%)",
     input: "hsl(240 3.7% 15.9%)",
     ring: "hsl(240 4.9% 83.9%)",
-    radius: "0.5rem",
   },
 };
